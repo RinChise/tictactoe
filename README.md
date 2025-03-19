@@ -1,8 +1,8 @@
-# ❌⭕ Tic-Tac-Toe (Java Console Game)
+# Tic-Tac-Toe (Java Console Game)
 
 Ein einfaches Tic-Tac-Toe-Spiel als **Konsolenanwendung** in Java.
 
-## 🚀 Installation
+## Installation
 
 1. **Repository klonen:**
    ```sh
@@ -17,11 +17,11 @@ Ein einfaches Tic-Tac-Toe-Spiel als **Konsolenanwendung** in Java.
    java TicTacToe
    ```
 
-## 🎮 Spielablauf
+## Spielablauf
 
 1. **Spielernamen eingeben**
     - Jeder Spieler gibt seinen Namen ein.
-    - Spieler 1 spielt mit **❌ (X)**, Spieler 2 mit **⭕ (O)**.
+    - Spieler 1 spielt mit **X**, Spieler 2 mit **O**.
 
 2. **Zugabfrage (Zeile und Spalte separat)**
     - Der aktuelle Spieler wird aufgefordert, **zuerst die Zeile (1-3)** einzugeben.
@@ -33,7 +33,7 @@ Ein einfaches Tic-Tac-Toe-Spiel als **Konsolenanwendung** in Java.
     - Ein Spieler gewinnt, wenn er **drei Zeichen in einer Reihe, Spalte oder Diagonale** hat.
     - Falls das Spielfeld voll ist und niemand gewonnen hat, endet das Spiel **unentschieden**.
 
-## 🕹 Steuerung
+## Steuerung
 
 | Abfrage | Eingabe | Bedeutung |
 |---------|--------|----------|
